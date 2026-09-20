@@ -163,7 +163,7 @@ function App() {
               </a>
               <a
                 className="button button-secondary"
-                href="./public/Jahidul_Islam_Sajib_developer_resume.pdf"
+                href="./public/Jahidul_Islam_AI_Developer.pdf"
                 download
                 aria-label="Download resume"
               >
